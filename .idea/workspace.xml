@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490637e8-aeee-4d5c-8a7b-9fc45aea93c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CookIT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CookIT.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_ingredients_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/all_ingredients_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/editing_ing_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/editing_ing_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/make_ing_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/make_ing_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_ing_list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/my_ing_list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_ings_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/my_ings_2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipes_adaptation.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search_recipe.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/search_recipe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort_later.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/sort_later.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/searcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/stuff.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +25,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1449">
-              <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+            <state relative-caret-position="58">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,17 +49,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="35" column="27" selection-start-line="4" selection-end-line="35" selection-end-column="27" />
+            <state relative-caret-position="552">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/usage_example.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            <state relative-caret-position="116">
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -81,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stuff.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="58">
+              <caret line="2" column="66" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -144,9 +139,9 @@
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/fridge_util.py" />
         <option value="$PROJECT_DIR$/translator.py" />
+        <option value="$PROJECT_DIR$/stuff.py" />
         <option value="$PROJECT_DIR$/usage_example.py" />
         <option value="$PROJECT_DIR$/searcher.py" />
-        <option value="$PROJECT_DIR$/stuff.py" />
       </list>
     </option>
   </component>
@@ -203,27 +198,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.usage_example">
-    <configuration name="editing_ing_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CookIT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Digitaljay\Documents\GitHub\CookIT\middle_versions\editing_ing_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="recipes_adaptation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,6 +261,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="stuff" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CookIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stuff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="usage_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,9 +307,9 @@
       <list>
         <item itemvalue="Python.usage_example" />
         <item itemvalue="Python.searcher" />
+        <item itemvalue="Python.stuff" />
         <item itemvalue="Python.search_recipe" />
         <item itemvalue="Python.recipes_adaptation" />
-        <item itemvalue="Python.editing_ing_list" />
       </list>
     </recent_temporary>
   </component>
@@ -328,15 +323,15 @@
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.56782335" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.617245" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32912722" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32912722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -408,13 +403,6 @@
     <entry file="file://$PROJECT_DIR$/test.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="35" column="27" selection-start-line="4" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -425,13 +413,6 @@
     <entry file="file://$PROJECT_DIR$/translator.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fridge_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/recipes_raw_nosource_fn.json">
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="116">
@@ -439,24 +420,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stuff.py">
+    <entry file="file://$PROJECT_DIR$/fridge_util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        <state relative-caret-position="87">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usage_example.py">
+    <entry file="file://$PROJECT_DIR$/stuff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        <state relative-caret-position="58">
+          <caret line="2" column="66" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/searcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1449">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="34" />
+        <state relative-caret-position="58">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usage_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
         </state>
       </provider>
     </entry>

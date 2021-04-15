@@ -1,5 +1,5 @@
 import json
-from googletrans import Translator
+from google_trans_new import google_translator
 from fridge_util import Fridge
 
 
@@ -40,18 +40,19 @@ class Searcher():
         if language=="en":
             return self.suitable_recipes
         else:
-            translator = Translator()
+            translator = google_translator()
             translated_recipes = []
             for recipe in self.suitable_recipes:
                 translated_recipe = {}
                 for key in recipe:
+                    # print(key)
                     translated_value=None
-                    print(type(recipe[key]), recipe[key])
                     if type(recipe[key])==str:
-                        translated_value=translator.translate(recipe[key], dest=language).text
-                    else:
-                        translated_value = [translator.translate(i, dest=language).text for i in recipe[key]]
-                    recipe[key]=translated_value
+                        translated_value=translator.translate(recipe[key], lang_tgt=language)
+                    elif type(recipe[key])==list:
+                        translated_value = [translator.translate(i, lang_tgt=language) for i in recipe[key]]
+
+                    translated_recipe[key]=translated_value
                 translated_recipes.append(translated_recipe)
             return translated_recipes
 
