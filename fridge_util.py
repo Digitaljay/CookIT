@@ -15,3 +15,13 @@ class Fridge():
             except:
                 print("Wrong ingredient, can't find " + i)
         return int(''.join(mask), 2)
+
+    def ings2indexes(self, ings:list):
+        indexes=[]
+        for i in ings:
+            try:
+                ing_index = self.product_list.index(i)
+                indexes.append(ing_index)
+            except:
+                print("Wrong ingredient, can't find " + i)
+        return indexes
