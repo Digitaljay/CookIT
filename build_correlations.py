@@ -21,6 +21,8 @@ with open("recipes_raw_nosource_fn.json") as json_file:
                     if prod_a!=prod_b:
                         correlation_matrix[prod_a][prod_b]+=1
                         correlation_matrix[prod_b][prod_a]+=1
+                    else:
+                        correlation_matrix[prod_a][prod_b]+=1
 
         except KeyError:
             pass

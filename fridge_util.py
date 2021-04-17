@@ -25,3 +25,6 @@ class Fridge():
             except:
                 print("Wrong ingredient, can't find " + i)
         return indexes
+
+    def indexes2ings(self, indexes:list):
+        return [self.product_list[i] for i in indexes]
