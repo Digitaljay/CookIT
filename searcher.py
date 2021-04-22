@@ -30,29 +30,12 @@ class Searcher():
 
     def decode2recipe(self):
         recipes_text = []
-        with open("recipes_raw_nosource_fn.json", "r") as json_file:
+        with open("recipes_ru.json", "r") as json_file:
             decoder = json.load(json_file)
             for recipe_code in self.suitable_codes:
                 recipes_text.append(decoder[recipe_code])
         return recipes_text
 
-    def get_suitable_recipes(self, language = "en"):
-        if language=="en":
-            return self.suitable_recipes
-        else:
-            translator = google_translator()
-            translated_recipes = []
-            for recipe in self.suitable_recipes:
-                translated_recipe = {}
-                for key in recipe:
-                    # print(key)
-                    translated_value=None
-                    if type(recipe[key])==str:
-                        translated_value=translator.translate(recipe[key], lang_tgt=language)
-                    elif type(recipe[key])==list:
-                        translated_value = [translator.translate(i, lang_tgt=language) for i in recipe[key]]
-
-                    translated_recipe[key]=translated_value
-                translated_recipes.append(translated_recipe)
-            return translated_recipes
-
+    def get_suitable_recipes(self, language = "ru"):
+        return self.suitable_recipes
+        
