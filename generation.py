@@ -21,9 +21,13 @@ class Generator():
         return topn
 
     def count_correlation(self, indexes):
+        if len(indexes)==1:
+            return 100
         correlations=[]
         for inda in range(len(indexes)):
-            for indb in range(inda, len(indexes)):
-                correlations.append(self.correlation_matrix[inda][indb+1])
+            for indb in range(inda+1, len(indexes)):
+                if self.correlation_matrix[indexes[inda]][indexes[indb]+1]<100:
+                    return 0
+                correlations.append(self.correlation_matrix[indexes[inda]][indexes[indb]+1])
         return sum(correlations)/len(correlations)
 
