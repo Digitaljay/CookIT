@@ -5,7 +5,7 @@ with open("fridge.txt") as fridge:
     for food_name in fridge.readlines():
         fridge_list.append(food_name.strip())
 with open("sort_later.txt", "w") as garbage:
-    with open("recipes_raw_nosource_fn.json") as json_file:
+    with open("cleaned_recipes.json") as json_file:
         data = json.load(json_file)
         for recipe in data:
             try:

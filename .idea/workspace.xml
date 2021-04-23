@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490637e8-aeee-4d5c-8a7b-9fc45aea93c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapted_recipes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fridge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fridge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_versions/adapted_recipes.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middle_versions/sort_later.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/sort_later.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/searcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/searcher.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,9 +24,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adapted_recipes.json">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/delete_garbage_recipes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/cleaned_recipes.json">
+          <provider selected="true" editor-type-id="LargeFileEditor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/recipes_raw_nosource_fn.json">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="27319">
+              <caret line="1767" column="825" selection-start-line="1767" selection-start-column="814" selection-end-line="1767" selection-end-column="825" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -37,15 +66,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
               <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle_versions/fridge.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="556" column="8" lean-forward="true" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -64,38 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle_versions/editing_ing_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fridge.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="692" column="5" selection-start-line="692" selection-start-column="5" selection-end-line="692" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
             </state>
           </provider>
         </entry>
@@ -113,8 +106,8 @@
     <findStrings>
       <find>sausage</find>
       <find>milk</find>
-      <find>milk</find>
       <find>chicken</find>
+      <find>ingredients</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,11 +138,12 @@
         <option value="$PROJECT_DIR$/separator/to_port.py" />
         <option value="$PROJECT_DIR$/separator/testa.py" />
         <option value="C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py" />
-        <option value="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" />
         <option value="$PROJECT_DIR$/fridge.txt" />
         <option value="$PROJECT_DIR$/middle_versions/fridge.txt" />
         <option value="$PROJECT_DIR$/usage_example.py" />
         <option value="$PROJECT_DIR$/searcher.py" />
+        <option value="$PROJECT_DIR$/middle_versions/delete_garbage_recipes.py" />
+        <option value="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" />
       </list>
     </option>
   </component>
@@ -173,6 +167,11 @@
             <path>
               <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
               <item name="CookIT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CookIT" type="462c0819:PsiDirectoryNode" />
+              <item name="middle_versions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,7 +208,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.recipes_adaptation">
-    <configuration name="one_more_trans_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="delete_garbage_recipes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/separator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/middle_versions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/separator/one_more_trans_try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middle_versions/delete_garbage_recipes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,10 +316,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.recipes_adaptation" />
+        <item itemvalue="Python.delete_garbage_recipes" />
         <item itemvalue="Python.usage_example" />
         <item itemvalue="Python.searcher" />
         <item itemvalue="Python.testa" />
-        <item itemvalue="Python.one_more_trans_try" />
       </list>
     </recent_temporary>
   </component>
@@ -330,11 +329,11 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42481598" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53417456" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,24 +545,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/fridge.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
-          <caret line="556" column="8" lean-forward="true" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="8" />
+          <caret line="556" column="8" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -593,6 +578,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adapted_recipes.json">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/recipes_raw_nosource_fn.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="27319">
+          <caret line="1767" column="825" selection-start-line="1767" selection-start-column="814" selection-end-line="1767" selection-end-column="825" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/delete_garbage_recipes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/cleaned_recipes.json">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
