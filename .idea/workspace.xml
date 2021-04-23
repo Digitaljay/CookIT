@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490637e8-aeee-4d5c-8a7b-9fc45aea93c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/separator/testa.py" beforeDir="false" afterPath="$PROJECT_DIR$/separator/testa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adapted_recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fridge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fridge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middle_versions/sort_later.txt" beforeDir="false" afterPath="$PROJECT_DIR$/middle_versions/sort_later.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/searcher.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,86 +21,81 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-261">
-              <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/delete_cavichki.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="3" column="37" selection-start-line="1" selection-end-line="3" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/keys_dict.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret column="900" selection-start-column="900" selection-end-column="900" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/sep_clean/1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret column="27678" selection-end-column="428607" />
+            <state relative-caret-position="-835">
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/separator/testa.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/adapted_recipes.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/data.json">
-          <provider selected="true" editor-type-id="LargeFileEditor">
+        <entry file="file://$PROJECT_DIR$/usage_example.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="87">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="16" />
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py">
+        <entry file="file://$PROJECT_DIR$/middle_versions/fridge.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+            <state relative-caret-position="261">
+              <caret line="556" column="8" lean-forward="true" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/one_more_trans.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <entry file="file://$PROJECT_DIR$/separator/adapted_recipes.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/recipes_raw_nosource_fn.json">
+          <provider selected="true" editor-type-id="LargeFileEditor">
+            <state relative-caret-position="58">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/separator/one_more_trans_try.py">
+        <entry file="file://$PROJECT_DIR$/middle_versions/editing_ing_list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="232">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fridge.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="692" column="5" selection-start-line="692" selection-start-column="5" selection-end-line="692" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -127,14 +128,11 @@
         <option value="$PROJECT_DIR$/my_ing_list.txt" />
         <option value="$PROJECT_DIR$/editing_ing_list.py" />
         <option value="$PROJECT_DIR$/my_ings_2.txt" />
-        <option value="$PROJECT_DIR$/fridge.txt" />
         <option value="$PROJECT_DIR$/recipes_adaptation.py" />
         <option value="$PROJECT_DIR$/search_recipe.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/translator.py" />
         <option value="$PROJECT_DIR$/stuff.py" />
-        <option value="$PROJECT_DIR$/usage_example.py" />
-        <option value="$PROJECT_DIR$/searcher.py" />
         <option value="$PROJECT_DIR$/fridge_util.py" />
         <option value="$PROJECT_DIR$/build_correlations.py" />
         <option value="$PROJECT_DIR$/gen_usage_example.py" />
@@ -144,9 +142,14 @@
         <option value="$PROJECT_DIR$/separator/delete_cavichki.py" />
         <option value="$PROJECT_DIR$/separator/one_more_trans_try.py" />
         <option value="$PROJECT_DIR$/separator/one_more_trans.py" />
-        <option value="C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py" />
         <option value="$PROJECT_DIR$/separator/to_port.py" />
         <option value="$PROJECT_DIR$/separator/testa.py" />
+        <option value="C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py" />
+        <option value="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" />
+        <option value="$PROJECT_DIR$/fridge.txt" />
+        <option value="$PROJECT_DIR$/middle_versions/fridge.txt" />
+        <option value="$PROJECT_DIR$/usage_example.py" />
+        <option value="$PROJECT_DIR$/searcher.py" />
       </list>
     </option>
   </component>
@@ -171,22 +174,6 @@
               <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
               <item name="CookIT" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CookIT" type="462c0819:PsiDirectoryNode" />
-              <item name="middle_versions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CookIT" type="462c0819:PsiDirectoryNode" />
-              <item name="separator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CookIT" type="462c0819:PsiDirectoryNode" />
-              <item name="separator" type="462c0819:PsiDirectoryNode" />
-              <item name="to_port" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -195,17 +182,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/школа, да и вообще все/cockit-main" />
+    <property name="last_opened_file_path" value="C:/школа, да и вообще все/cookit-backend" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator\to_port" />
-      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator" />
-      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\middle_versions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT" />
+      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator" />
+      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\middle_versions" />
+      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator\to_port" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -220,28 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.testa">
-    <configuration name="delete_cavichki" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CookIT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/separator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/separator/delete_cavichki.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.recipes_adaptation">
     <configuration name="one_more_trans_try" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,7 +230,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one_recipe_translation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="recipes_adaptation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CookIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/middle_versions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middle_versions/recipes_adaptation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="searcher" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CookIT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,28 +263,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one_recipe_translation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="shifrs2nums" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CookIT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/separator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/separator/shifrs2nums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searcher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,13 +293,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="usage_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CookIT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/usage_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.recipes_adaptation" />
+        <item itemvalue="Python.usage_example" />
+        <item itemvalue="Python.searcher" />
         <item itemvalue="Python.testa" />
         <item itemvalue="Python.one_more_trans_try" />
-        <item itemvalue="Python.delete_cavichki" />
-        <item itemvalue="Python.shifrs2nums" />
-        <item itemvalue="Python.one_recipe_translation" />
       </list>
     </recent_temporary>
   </component>
@@ -341,13 +329,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1654373" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4374343" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42481598" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,13 +352,6 @@
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/editing_ing_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/all_ingredients_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-26929">
@@ -381,13 +361,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.json" />
     <entry file="file://$PROJECT_DIR$/translator.py" />
-    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stuff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -398,13 +371,6 @@
     <entry file="file://$PROJECT_DIR$/correlations.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="30" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/my_ing_list.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -412,27 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/middle_versions/make_ing_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/my_ings_2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,23 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="632142">
           <caret line="21798" column="11" selection-start-line="21798" selection-start-column="11" selection-end-line="21798" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/recipes_raw_nosource_fn.json">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state relative-caret-position="58">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adapted_recipes.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fridge.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1189">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -507,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/usage_example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" column="90" selection-start-line="2" selection-end-line="2" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/middle_versions/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -521,48 +446,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/separator/to_port.py" />
     <entry file="file://$PROJECT_DIR$/separator/keys_dict.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
+        <state>
           <caret column="900" selection-start-column="900" selection-end-column="900" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/separator/sep_clean/1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
+        <state relative-caret-position="783">
           <caret column="27678" selection-end-column="428607" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/separator/one_more_trans_try.py">
+    <entry file="file://$PROJECT_DIR$/separator/testa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/searcher.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        <state relative-caret-position="1160">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#46#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/separator/delete_cavichki.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="37" selection-start-line="1" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -580,18 +485,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/separator/to_port.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/separator/testa.py">
+    <entry file="file://$PROJECT_DIR$/separator/one_more_trans_try.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="47" column="50" lean-forward="true" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        <state relative-caret-position="116">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-503">
+          <caret line="125" column="14" selection-start-line="125" selection-start-column="14" selection-end-line="125" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/separator/to_port/testa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-696">
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/separator/delete_cavichki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="37" selection-start-line="1" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/make_ing_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/editing_ing_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fridge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="692" column="5" selection-start-line="692" selection-start-column="5" selection-end-line="692" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/search_recipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/recipes_adaptation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/middle_versions/fridge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="556" column="8" lean-forward="true" selection-start-line="556" selection-start-column="8" selection-end-line="556" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/separator/adapted_recipes.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recipes_raw_nosource_fn.json">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="58">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usage_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/searcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835">
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapted_recipes.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

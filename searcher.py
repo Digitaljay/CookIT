@@ -1,5 +1,4 @@
 import json
-from google_trans_new import google_translator
 from fridge_util import Fridge
 
 
@@ -30,7 +29,7 @@ class Searcher():
 
     def decode2recipe(self):
         recipes_text = []
-        with open("recipes_ru.json", "r") as json_file:
+        with open("recipes_raw_nosource_fn.json", "r") as json_file:
             decoder = json.load(json_file)
             for recipe_code in self.suitable_codes:
                 recipes_text.append(decoder[recipe_code])

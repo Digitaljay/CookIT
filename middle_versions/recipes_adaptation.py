@@ -11,6 +11,7 @@ with open("sort_later.txt", "w") as garbage:
             try:
                 ingredients_raw = data[recipe]["ingredients"]
                 ingredients_mask = ["0" for i in range(len(fridge_list))]
+                beaten=0
                 for product in ingredients_raw:
                     flag=1
                     for abstraction_index in range(len(fridge_list)):
@@ -19,13 +20,14 @@ with open("sort_later.txt", "w") as garbage:
                             flag=0
                             break
                     if flag:
+                        beaten=1
                         try:
                             garbage.write(product+"\n")
                         except UnicodeEncodeError:
                             print(product)
-
-                bin_recipe=int(''.join(ingredients_mask), 2)
-                recipes_dictionary[recipe]=bin_recipe
+                if not beaten:
+                    bin_recipe=int(''.join(ingredients_mask), 2)
+                    recipes_dictionary[recipe]=bin_recipe
             except KeyError:
                 pass
 
