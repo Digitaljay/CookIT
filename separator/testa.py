@@ -28,8 +28,8 @@ with open("data.json", "r") as json_file:
         inlen=0
         instructs=[]
         while inlen<lenna:
-            instructs.append(to_trans[0][inlen:inlen+500])
-            inlen+=500
+            instructs.append(to_trans[0][inlen:inlen+499])
+            inlen+=499
 
         recipe['instructions']=MyMemoryTranslator(source="en", target="ru").translate_batch(instructs)
         time.sleep(0.3)
@@ -44,6 +44,8 @@ with open("data.json", "r") as json_file:
         counter+=1
         if not counter%500:
             print(counter)
+            with open("translated" +str(counter//500)+".json", "w") as dump_file:
+                json.dump(obj=result,fp=dump_file)
         # for key_in in data[key]:
         #     inst, ing, tit=
         #     translated_value=None
