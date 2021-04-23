@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="490637e8-aeee-4d5c-8a7b-9fc45aea93c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/separator/testa.py" beforeDir="false" afterPath="$PROJECT_DIR$/separator/testa.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/searcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="54" column="59" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="54" selection-end-column="59" />
+            <state relative-caret-position="-261">
+              <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -52,20 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/middle_versions/utils.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/separator/testa.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="270">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -86,7 +76,7 @@
         <entry file="file://C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="115" column="20" lean-forward="true" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+              <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -104,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/separator/one_more_trans_try.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
-              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -155,6 +145,7 @@
         <option value="$PROJECT_DIR$/separator/one_more_trans_try.py" />
         <option value="$PROJECT_DIR$/separator/one_more_trans.py" />
         <option value="C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py" />
+        <option value="$PROJECT_DIR$/separator/to_port.py" />
         <option value="$PROJECT_DIR$/separator/testa.py" />
       </list>
     </option>
@@ -190,6 +181,12 @@
               <item name="CookIT" type="462c0819:PsiDirectoryNode" />
               <item name="separator" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CookIT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CookIT" type="462c0819:PsiDirectoryNode" />
+              <item name="separator" type="462c0819:PsiDirectoryNode" />
+              <item name="to_port" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,6 +200,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator\to_port" />
       <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT\separator" />
       <recent name="C:\Users\Digitaljay\Documents\GitHub\CookIT" />
     </key>
@@ -540,14 +538,14 @@
     <entry file="file://$PROJECT_DIR$/separator/one_more_trans_try.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/searcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="54" column="59" lean-forward="true" selection-start-line="48" selection-start-column="20" selection-end-line="54" selection-end-column="59" />
+        <state relative-caret-position="-261">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -557,7 +555,7 @@
     <entry file="file://C:/Program Files/Python37/Lib/site-packages/deep_translator/mymemory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="115" column="20" lean-forward="true" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
+          <caret line="115" column="20" selection-start-line="115" selection-start-column="20" selection-end-line="115" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -582,10 +580,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/separator/to_port.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/separator/testa.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="270">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>

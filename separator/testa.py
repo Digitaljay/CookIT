@@ -24,14 +24,15 @@ with open("data.json", "r") as json_file:
         except KeyError:
             to_trans.append('none')
 
-        translated_value=MyMemoryTranslator(source="en", target="ru").translate_batch(to_trans)
-
-        recipe['instructions']=translated_value[0]
-        recipe['ingredients']=translated_value[1:-1]
-        recipe["title"]=translated_value[-1]
+        recipe['instructions']=MyMemoryTranslator(source="en", target="ru").translate(to_trans[0])
+        time.sleep(0.3)
+        recipe['ingredients']=MyMemoryTranslator(source="en", target="ru").translate_batch(to_trans[1:-1])
+        time.sleep(0.3)
+        recipe["title"]=MyMemoryTranslator(source="en", target="ru").translate(to_trans[-1])
+        time.sleep(0.3)
 
         result[key]=recipe
-        time.sleep(0.3)
+
 
         counter+=1
         if not counter%500:
