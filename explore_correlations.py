@@ -1,7 +1,7 @@
 import pandas as pd
 from fridge_util import Fridge
 
-ingredients_i_have = ["garlic", "milk", "chicken", "pepper", "cabbage", "cod", "cheese"]
+ingredients_i_have = ["mint", "milk", "banana", "strawberr", "milk", "honey", "cheese"]
 
 correlation_matrix=pd.read_csv("correlations.csv", delimiter=',').to_numpy()
 fridge=Fridge()
